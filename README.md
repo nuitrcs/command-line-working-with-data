@@ -1,4 +1,4 @@
-# Command Line: Working with data
+# Command Line: Working with data Workshop
 
 This workshop teaches the basic of working with data at the command line. 
 
