@@ -12,6 +12,6 @@ Workshop covers the material from
 
 ## Resources
 Copy the tarball link from
-[https://github.com/nuitrcs/command-line-working-with-data/raw/master/shell-novice-data.tar](https://github.com/nuitrcs/command-line-working-with-data/raw/master/shell-novice-data.tar)
+[https://github.com/nuitrcs/bash_hpc_workshops/raw/master/shell-novice-data.tar](https://github.com/nuitrcs/bash_hpc_workshops/raw/master/shell-novice-data.tar)
 
 
